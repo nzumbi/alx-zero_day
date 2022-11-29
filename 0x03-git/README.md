@@ -1,1 +1,2 @@
-secong readme
+second readme
+updated from github.com
